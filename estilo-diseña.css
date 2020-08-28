@@ -1,0 +1,198 @@
+body{
+    background-color: rgb(252, 207, 165);
+    color: black;
+    font-family: 'Nunito', sans-serif;
+}
+
+
+.h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
+h1 strong{
+    color: rgb(255, 146, 57);
+}
+
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    height: inherit;
+}
+
+.header{
+    background: rgb(235, 153, 2);
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+  }
+  
+  .header li{
+      height: inherit;
+  }
+  
+  .header a{
+      color: black;
+      text-decoration: none;
+      height: inherit;
+      display: flex;
+      align-items: center;
+      padding: 0px 10px;
+  }
+
+
+  .logo img{
+    width: 80px;
+}
+
+.menu{
+    height: inherit;
+    
+}
+
+.menuconsola{
+    height: 30px;
+    width: 200px;
+    background-color: rgb(255, 121, 32);
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    padding:  10px;
+    text-align:center;
+}
+
+.aplicar{
+    height: 500px;
+        background: rgb(243, 201, 123);
+        display: flex;
+        color: rgb(0, 0, 0);
+       
+    }
+    
+    .aplicar-detalles{
+        width: 50%;
+        height: inherit;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding:  30px;
+        text-align:center;
+        margin: 10px;
+    }
+    
+    .aplicar-detalles img{
+        height: 70%;
+      width: 80%;
+    }
+
+
+    .menucubrebocasx2{
+        height: 30px;
+        width: 200px;
+        background-color: rgb(255, 121, 32);
+        border-radius: 30px;
+        border: none;
+        font-size: 20px;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        padding:  10px;
+        text-align:center;
+    }
+
+
+
+.aplicar2{
+    height: 500px;
+        background: rgb(243, 148, 85);
+        display: flex;
+        color: rgb(0, 0, 0);
+       
+    }
+    
+    .aplicar-detalles2{
+        width: 50%;
+        height: inherit;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding:  30px;
+        text-align:center;
+        margin: 10px;
+    }
+    
+    .aplicar-detalles img{
+        height: 70%;
+      width: 80%;
+    }
+
+
+    .menucubrebocamarshmellow{
+        height: 30px;
+        width: 200px;
+        background-color: rgb(58, 109, 250);
+        border-radius: 30px;
+        border: none;
+        font-size: 20px;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        padding:  10px;
+        text-align:center;
+    }
+
+    .aplicar3{
+        height: 500px;
+            background: rgb(169, 226, 252);
+            display: flex;
+            color: rgb(0, 0, 0);
+           
+        }
+        
+        .aplicar-detalles3{
+            width: 50%;
+            height: inherit;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding:  30px;
+            text-align:center;
+            margin: 10px;
+        }
+        
+        .aplicar-detalles img{
+            height: 70%;
+          width: 80%;
+        }
+
+.principal{
+    background: powderblue;
+    background-image: url("img/fondo\ cubreboca-2.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 30px;
+}
+.principal img{
+    width: 500px;
+}
+.principal-botón{
+    width: 250px;
+    height: 40px;
+    background-color: rgb(255, 175, 70);
+    border-radius: 24px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+
